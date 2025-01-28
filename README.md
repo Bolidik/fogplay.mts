@@ -21,15 +21,10 @@
 
 4. Откройте файл main.py добавьте в него ваши токены:
     ```plaintext
-BOT_TOKEN = os.getenv("ТОКЕН БОТА")
-if not BOT_TOKEN:
-    BOT_TOKEN = 'ТОКЕН БОТА'
-
-bot = telebot.TeleBot(BOT_TOKEN)
-
-GEMINI_API_KEY = os.getenv("ТУТ АПИ")
-if not GEMINI_API_KEY:
-    GEMINI_API_KEY = 'ТУТ АПИ'
+    BOT_TOKEN = os.getenv("ТОКЕН БОТА")
+        BOT_TOKEN = 'ТОКЕН БОТА'
+    GEMINI_API_KEY = os.getenv("ТУТ АПИ")
+        GEMINI_API_KEY = 'ТУТ АПИ'
     ```
 
 ## Использование
