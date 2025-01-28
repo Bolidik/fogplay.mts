@@ -1,0 +1,4700 @@
+[
+  {
+    "cpu": "AMD Ryzen 5 5600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "32 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11106 Mb",
+    "ram": "16 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 7700 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "32 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 7700 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 12115 Mb",
+    "ram": "32 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 7700 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 12115 Mb",
+    "ram": "32 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2678 v3 @ 2.50GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "625 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 2600X Six-Core Processor",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11106 Mb",
+    "ram": "16 Gb",
+    "price": "22 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 4500 6-Core Processor",
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER 5966 Mb",
+    "ram": "16 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600G with Radeon Graphics",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i7-12700F",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "32 Gb",
+    "price": "63 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X3D 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "24 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 8400F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "32 Gb",
+    "price": "63 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "32 Gb",
+    "price": "49 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz",
+    "gpu": "AMD Radeon RX 6700 XT 12216 Mb",
+    "ram": "32 Gb",
+    "price": "42 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "AMD Radeon RX 6700 XT 12216 Mb",
+    "ram": "32 Gb",
+    "price": "42 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7957 Mb",
+    "ram": "32 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 12115 Mb",
+    "ram": "32 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 7700 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 12115 Mb",
+    "ram": "32 Gb",
+    "price": "48 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "32 Gb",
+    "price": "42 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2630 v4 @ 2.20GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 8400F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 16109 Mb",
+    "ram": "32 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4080 16050 Mb",
+    "ram": "32 Gb",
+    "price": "55 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2678 v3 @ 2.50GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8017 Mb",
+    "ram": "32 Gb",
+    "price": "63 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i7-12700KF",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 10046 Mb",
+    "ram": "32 Gb",
+    "price": "63 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8006 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i7-11700KF @ 3.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X3D 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "49 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "32 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 7700 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 12115 Mb",
+    "ram": "32 Gb",
+    "price": "48 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "49 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13400",
+    "gpu": "AMD Radeon RX 7800 XT 16172 Mb",
+    "ram": "32 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 7700 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 12115 Mb",
+    "ram": "32 Gb",
+    "price": "48 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 7700 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 12115 Mb",
+    "ram": "32 Gb",
+    "price": "48 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2630 v4 @ 2.20GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 16109 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 3600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "AMD Radeon RX 6700 XT 12216 Mb",
+    "ram": "32 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "32 Gb",
+    "price": "49 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 3900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "24 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i7-12700KF",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8018 Mb",
+    "ram": "32 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 12115 Mb",
+    "ram": "32 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 3900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "24 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 8400F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "48 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 16109 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 7700 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 12115 Mb",
+    "ram": "32 Gb",
+    "price": "48 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "AMD Radeon RX 5700 8151 Mb",
+    "ram": "16 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce RTX 2070 8006 Mb",
+    "ram": "16 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13600KF",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce RTX 2070 SUPER 7989 Mb",
+    "ram": "32 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8017 Mb",
+    "ram": "24 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 3700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 8036 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i7-11700 @ 2.50GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "24 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 3900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i9-14900KF",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 16109 Mb",
+    "ram": "24 Gb",
+    "price": "45 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+    "gpu": "AMD Radeon RX 5700 8125 Mb",
+    "ram": "16 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 3950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "64 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "27 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600G with Radeon Graphics",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11106 Mb",
+    "ram": "16 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 3700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "28 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER 5966 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 16109 Mb",
+    "ram": "16 Gb",
+    "price": "39 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E3-1270 V2 @ 3.50GHz",
+    "gpu": "NVIDIA GeForce GTX 1070 8067 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X3D 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12011 Mb",
+    "ram": "32 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2686 v4 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8032 Mb",
+    "ram": "32 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5800X 8-Core Processor",
+    "gpu": "AMD Radeon RX 6700 XT 12217 Mb",
+    "ram": "32 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i9-13900K",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 16109 Mb",
+    "ram": "24 Gb",
+    "price": "39 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "20 Gb",
+    "price": "63 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11106 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti 11996 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "16 Gb",
+    "price": "39 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "16 Gb",
+    "price": "45 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "24 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "24 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8038 Mb",
+    "ram": "16 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 16109 Mb",
+    "ram": "24 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2686 v4 @ 2.30GHz",
+    "gpu": "AMD Radeon RX 5700 8151 Mb",
+    "ram": "32 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13600KF",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce GTX 1070 8067 Mb",
+    "ram": "32 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce GTX 1070 8067 Mb",
+    "ram": "32 Gb",
+    "price": "28 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz",
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER 5966 Mb",
+    "ram": "16 Gb",
+    "price": "14 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "28 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 16109 Mb",
+    "ram": "27 Gb",
+    "price": "55 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 16109 Mb",
+    "ram": "16 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 16109 Mb",
+    "ram": "16 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce GTX 1070 8067 Mb",
+    "ram": "32 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 8059 Mb",
+    "ram": "16 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "26 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11106 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 3900 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti 11996 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "16 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "28 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER 5966 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 16109 Mb",
+    "ram": "16 Gb",
+    "price": "39 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2667 v3 @ 3.20GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8017 Mb",
+    "ram": "32 Gb",
+    "price": "49 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i9-13900K",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 16109 Mb",
+    "ram": "24 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400",
+    "gpu": "NVIDIA GeForce RTX 4070 12011 Mb",
+    "ram": "32 Gb",
+    "price": "49 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti 11996 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i3-12100",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 16109 Mb",
+    "ram": "16 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600G with Radeon Graphics",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper 1950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "64 Gb",
+    "price": "23 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 Laptop GPU 8017 Mb",
+    "ram": "16 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 Frankenstein 8020 Mb",
+    "ram": "64 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i9-11900F @ 2.50GHz",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti 11996 Mb",
+    "ram": "32 Gb",
+    "price": "79 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13600KF",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8018 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "AMD Radeon RX 6800 16312 Mb",
+    "ram": "32 Gb",
+    "price": "31 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8017 Mb",
+    "ram": "32 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8018 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i9-13900K",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 16109 Mb",
+    "ram": "24 Gb",
+    "price": "45 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "64 Gb",
+    "price": "23 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-14700K",
+    "gpu": "NVIDIA GeForce RTX 4080 SUPER 16047 Mb",
+    "ram": "64 Gb",
+    "price": "24 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8017 Mb",
+    "ram": "32 Gb",
+    "price": "49 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER 16063 Mb",
+    "ram": "24 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "49 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER 5966 Mb",
+    "ram": "16 Gb",
+    "price": "23 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "64 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+    "gpu": "NVIDIA GeForce RTX 2070 8006 Mb",
+    "ram": "16 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER 16063 Mb",
+    "ram": "24 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X3D 8-Core Processor",
+    "gpu": "AMD Radeon RX 6800 XT 16312 Mb",
+    "ram": "32 Gb",
+    "price": "36 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i9-10900 CPU @ 2.80GHz",
+    "gpu": "NVIDIA GeForce RTX 4070 12011 Mb",
+    "ram": "32 Gb",
+    "price": "69 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6800 16311 Mb",
+    "ram": "32 Gb",
+    "price": "31 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i9-11900F @ 2.50GHz",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti 11996 Mb",
+    "ram": "32 Gb",
+    "price": "79 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13600KF",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8018 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "AMD Radeon RX 6800 16312 Mb",
+    "ram": "32 Gb",
+    "price": "31 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8017 Mb",
+    "ram": "32 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 16109 Mb",
+    "ram": "16 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 2700 Eight-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i3-12100F",
+    "gpu": "NVIDIA GeForce RTX 2060 SUPER 8006 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i3-12100F",
+    "gpu": "AMD Radeon RX 5700 XT 8130 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-10600KF CPU @ 4.10GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 2700 Eight-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 2060 5954 Mb",
+    "ram": "16 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R)Core(TM) i9-13900K",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R)Core(TM) i9-13900K",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "24 Gb",
+    "price": "37 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R)Core(TM) i9-13900K",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "24 Gb",
+    "price": "37 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2660 v4 @ 2.00GHz",
+    "gpu": "AMD Radeon RX 5700 XT 8125 Mb",
+    "ram": "16 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2643 v3 @ 3.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-10600 CPU @ 3.30GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 8017 Mb",
+    "ram": "32 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "AMD Radeon RX 5700 XT 8125 Mb",
+    "ram": "32 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "27 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i3-12100F",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8017 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 8400F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 2700 Eight-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "16 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 7700 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "18 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i7-13700F",
+    "gpu": "NVIDIA GeForce RTX 4080 16050 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 1600 Six-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 2060 SUPER 8006 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2643 v3 @ 3.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 7800X3D 8-Core Processor",
+    "gpu": "AMD Radeon RX 6800 XT 16311 Mb",
+    "ram": "32 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8018 Mb",
+    "ram": "18 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5800X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 8059 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 2700 Eight-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 2060 5954 Mb",
+    "ram": "16 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "18 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 2600 Six-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU 5996 Mb",
+    "ram": "16 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13400F",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8017 Mb",
+    "ram": "32 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X3D 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 8036 Mb",
+    "ram": "64 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3050 8042 Mb",
+    "ram": "48 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 8036 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4080 16050 Mb",
+    "ram": "128 Gb",
+    "price": "69 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "45 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 3600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "39 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X3D 8-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16337 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i7-12700H",
+    "gpu": "NVIDIA GeForce RTX 4070 Laptop GPU 7948 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6700 XT 12217 Mb",
+    "ram": "32 Gb",
+    "price": "31 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6700 XT 12217 Mb",
+    "ram": "32 Gb",
+    "price": "31 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13400F",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "39 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "39 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-9700KF CPU @ 3.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16338 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E3-1280 v5 @ 3.70GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13400F",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "45 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6700 XT 12217 Mb",
+    "ram": "32 Gb",
+    "price": "31 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "45 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i7-13700K",
+    "gpu": "NVIDIA GeForce RTX 4080 16050 Mb",
+    "ram": "32 Gb",
+    "price": "69 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E3-1240 v6 @ 3.70GHz",
+    "gpu": "NVIDIA GeForce RTX 2060 12061 Mb",
+    "ram": "32 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "AMD Radeon RX 6800 XT 16318 Mb",
+    "ram": "32 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i7-12700",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER 16063 Mb",
+    "ram": "40 Gb",
+    "price": "69 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "64 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i3-12100F",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "40 Gb",
+    "price": "57 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i9-13900F",
+    "gpu": "AMD Radeon RX 7700 XT 12077 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 4500 6-Core Processor",
+    "gpu": "AMD Radeon RX 6800 XT 16318 Mb",
+    "ram": "32 Gb",
+    "price": "57 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "24 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2660 v3 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6800 XT 16318 Mb",
+    "ram": "16 Gb",
+    "price": "57 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "40 Gb",
+    "price": "63 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-1650 v4 @ 3.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6800 XT 16318 Mb",
+    "ram": "16 Gb",
+    "price": "57 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "48 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16312 Mb",
+    "ram": "16 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13400",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "34 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "16 Gb",
+    "price": "22 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16312 Mb",
+    "ram": "16 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "16 Gb",
+    "price": "24 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "16 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2673 v3 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11107 Mb",
+    "ram": "64 Gb",
+    "price": "23 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16312 Mb",
+    "ram": "16 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16312 Mb",
+    "ram": "16 Gb",
+    "price": "28 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11106 Mb",
+    "ram": "32 Gb",
+    "price": "23 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16311 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X3D 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16312 Mb",
+    "ram": "16 Gb",
+    "price": "24 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16312 Mb",
+    "ram": "16 Gb",
+    "price": "28 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16312 Mb",
+    "ram": "16 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16312 Mb",
+    "ram": "16 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i7-11700 @ 2.50GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 Laptop GPU 8020 Mb",
+    "ram": "32 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16312 Mb",
+    "ram": "16 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16311 Mb",
+    "ram": "16 Gb",
+    "price": "28 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16311 Mb",
+    "ram": "16 Gb",
+    "price": "23 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12110 Mb",
+    "ram": "32 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X3D 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6800 XT 16311 Mb",
+    "ram": "16 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2689 v4 @ 3.10GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6800 XT 16312 Mb",
+    "ram": "16 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 9600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "32 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 3900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12110 Mb",
+    "ram": "16 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 2070 Super 8016 Mb",
+    "ram": "16 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6800 XT 16312 Mb",
+    "ram": "16 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16311 Mb",
+    "ram": "16 Gb",
+    "price": "24 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13400",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "34 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16311 Mb",
+    "ram": "16 Gb",
+    "price": "23 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i9-9900KF CPU @ 3.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i9-12900K",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "64 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "24 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2689 v4 @ 3.10GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16312 Mb",
+    "ram": "16 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "27 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "16 Gb",
+    "price": "22 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16311 Mb",
+    "ram": "16 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "27 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+    "gpu": "NVIDIA GeForce RTX 2070 Super 8016 Mb",
+    "ram": "16 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 12093 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13400F",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12110 Mb",
+    "ram": "32 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 2700 Eight-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER 16063 Mb",
+    "ram": "32 Gb",
+    "price": "48 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "27 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "45 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce GTX 1070 8067 Mb",
+    "ram": "64 Gb",
+    "price": "45 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 2070 Super 8016 Mb",
+    "ram": "32 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "27 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "27 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E3-1220 v3 @ 3.10GHz",
+    "gpu": "AMD Radeon RX 5600 XT 6077 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "64 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12129 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i7-12700K",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "48 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "48 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz",
+    "gpu": "AMD Radeon RX 6600 8121 Mb",
+    "ram": "16 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER 16063 Mb",
+    "ram": "32 Gb",
+    "price": "60 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 16109 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 16109 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4080 16050 Mb",
+    "ram": "32 Gb",
+    "price": "63 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 8400F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4090 24142 Mb",
+    "ram": "32 Gb",
+    "price": "69 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "16 Gb",
+    "price": "34 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 8400F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 4600G with Radeon Graphics",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "28 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 8400F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4090 24142 Mb",
+    "ram": "32 Gb",
+    "price": "69 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "32 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12011 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "26 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "25 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "AMD Radeon RX 7800 XT 16172 Mb",
+    "ram": "32 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "Genuine Intel(R) CPU 0000 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "32 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2697 v4 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "24 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 3060 12110 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "24 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 8700F 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 3700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-9600KF CPU @ 3.70GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 8700F 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "24 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 8700F 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12124 Mb",
+    "ram": "32 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13400",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "34 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 8700F 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 3700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X3D 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 3700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD FX-8370E Eight-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3050 8042 Mb",
+    "ram": "32 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "AMD Radeon RX 7900 GRE 16300 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8018 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12600KF",
+    "gpu": "NVIDIA GeForce RTX 3090 24326 Mb",
+    "ram": "64 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz",
+    "gpu": "AMD Radeon RX 5700 XT 8125 Mb",
+    "ram": "16 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz",
+    "gpu": "NVIDIA GeForce RTX 3070m 8018 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11106 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz",
+    "gpu": "AMD Radeon RX 5700 8125 Mb",
+    "ram": "16 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8018 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz",
+    "gpu": "AMD Radeon RX 5700 XT 8125 Mb",
+    "ram": "16 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8018 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4080 16050 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "Genuine Intel(R) CPU 0000 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "34 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU 5996 Mb",
+    "ram": "16 Gb",
+    "price": "23 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz",
+    "gpu": "NVIDIA GeForce RTX 3070m 8018 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 3070m 8018 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER 5966 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2430 v2 @ 2.50GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 Laptop GPU 8020 Mb",
+    "ram": "63 Gb",
+    "price": "27 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 7700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti 11996 Mb",
+    "ram": "64 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "27 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4070 12026 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8031 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i9-12900K",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti 11996 Mb",
+    "ram": "64 Gb",
+    "price": "100 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2678 v3 @ 2.50GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2678 v3 @ 2.50GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13400",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13500",
+    "gpu": "NVIDIA GeForce RTX 4090 24142 Mb",
+    "ram": "32 Gb",
+    "price": "58 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "128 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz",
+    "gpu": "NVIDIA GeForce RTX 2060 SUPER 8006 Mb",
+    "ram": "32 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5800X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2697 v3 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 12093 Mb",
+    "ram": "64 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 3600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8017 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600G with Radeon Graphics",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "24 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13400",
+    "gpu": "NVIDIA GeForce RTX 3060 Frankenstein 5996 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 8400F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600H with Radeon Graphics",
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU 5996 Mb",
+    "ram": "16 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 7700 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 8400F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600H with Radeon Graphics",
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU 5996 Mb",
+    "ram": "16 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 7700 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2678 v3 @ 2.50GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12110 Mb",
+    "ram": "128 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i9-12900KS",
+    "gpu": "NVIDIA GeForce RTX 3090 24326 Mb",
+    "ram": "64 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2697 v4 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8017 Mb",
+    "ram": "64 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz",
+    "gpu": "NVIDIA GeForce GTX 1070 8067 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 3600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3090 24326 Mb",
+    "ram": "32 Gb",
+    "price": "64 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7957 Mb",
+    "ram": "24 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i7-12700KF",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4090 24142 Mb",
+    "ram": "64 Gb",
+    "price": "63 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz",
+    "gpu": "NVIDIA GeForce GTX 1070 8081 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "AMD Radeon RX 6900 XT 16312 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 7800X3D 8-Core Processor",
+    "gpu": "AMD Radeon RX 7800 XT 16152 Mb",
+    "ram": "32 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "AMD Radeon RX 6900 XT 16312 Mb",
+    "ram": "16 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "AMD Radeon RX 5700 XT 8151 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "AMD Radeon RX 6700 XT 12217 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "AMD Radeon RX 6900 XT 16312 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "AMD Radeon RX 5700 XT 8131 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "AMD Radeon RX 6700 XT 12217 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 3600XT 6-Core Processor",
+    "gpu": "AMD Radeon RX 5700 XT 8151 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "60 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-14650HX",
+    "gpu": "NVIDIA GeForce RTX 4070 Laptop GPU 7948 Mb",
+    "ram": "32 Gb",
+    "price": "54 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13400F",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "32 Gb",
+    "price": "52 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12490F",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 8059 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i9-10900X CPU @ 3.70GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "24 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i9-10900X CPU @ 3.70GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "24 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2673 v3 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 Laptop GPU 8018 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5800X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12026 Mb",
+    "ram": "32 Gb",
+    "price": "39 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X3D 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3090 24326 Mb",
+    "ram": "64 Gb",
+    "price": "49 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 8400F 6-Core Processor",
+    "gpu": "AMD Radeon RX 7600 8108 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12026 Mb",
+    "ram": "32 Gb",
+    "price": "39 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i3-10105F CPU @ 3.70GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12026 Mb",
+    "ram": "32 Gb",
+    "price": "39 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER 16063 Mb",
+    "ram": "32 Gb",
+    "price": "49 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12026 Mb",
+    "ram": "32 Gb",
+    "price": "39 ₽"
+  },
+  {
+    "cpu": "Genuine Intel(R) CPU 0000 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3090 24326 Mb",
+    "ram": "32 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13600KF",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "16 Gb",
+    "price": "42 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2696 v2 @ 2.50GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11127 Mb",
+    "ram": "32 Gb",
+    "price": "39 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13600KF",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "16 Gb",
+    "price": "42 ₽"
+  },
+  {
+    "cpu": "Genuine Intel(R) CPU 0000%@",
+    "gpu": "NVIDIA GeForce RTX 3070m 16179 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "Genuine Intel(R) CPU 0000%@",
+    "gpu": "NVIDIA GeForce RTX 3070m 16179 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 8400F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-1650 v4 @ 3.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
+    "gpu": "AMD Radeon RX 6800 XT 16338 Mb",
+    "ram": "32 Gb",
+    "price": "63 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER 5966 Mb",
+    "ram": "48 Gb",
+    "price": "24 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 3600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3090 24326 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i9-11900KF @ 3.50GHz",
+    "gpu": "AMD Radeon RX 6900 XT 16312 Mb",
+    "ram": "63 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16318 Mb",
+    "ram": "32 Gb",
+    "price": "63 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 3900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "64 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "17 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i3-12100",
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER 5966 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER 5966 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600G with Radeon Graphics",
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER 5966 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "24 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "24 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600H with Radeon Graphics",
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU 5996 Mb",
+    "ram": "16 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER 5966 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "16 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen Threadripper 1920X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "20 Gb",
+    "price": "16 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i9-10900 CPU @ 2.80GHz",
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER 5966 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 2080 7987 Mb",
+    "ram": "32 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz",
+    "gpu": "NVIDIA GeForce RTX 4070 12011 Mb",
+    "ram": "16 Gb",
+    "price": "27 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "16 Gb",
+    "price": "27 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 Frankenstein 8018 Mb",
+    "ram": "16 Gb",
+    "price": "24 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 7700 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12026 Mb",
+    "ram": "32 Gb",
+    "price": "39 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "AMD Radeon RX 6700 XT 12223 Mb",
+    "ram": "16 Gb",
+    "price": "22 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "AMD Radeon RX 6700 XT 12223 Mb",
+    "ram": "16 Gb",
+    "price": "22 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "AMD Radeon RX 5700 XT 8121 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 3900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3090 24325 Mb",
+    "ram": "32 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "24 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 3900 12-Core Processor",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11120 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4090 24142 Mb",
+    "ram": "128 Gb",
+    "price": "63 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 3900X 12-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16311 Mb",
+    "ram": "32 Gb",
+    "price": "39 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 3800X 8-Core Processor",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11120 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13400F",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "64 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 3900 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti 11996 Mb",
+    "ram": "32 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 8400F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 PRO 2400GE w/ Radeon Vega Graphics",
+    "gpu": "AMD Radeon RX 6900 XT 16312 Mb",
+    "ram": "16 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13600K",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti 11996 Mb",
+    "ram": "32 Gb",
+    "price": "53 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "AMD Radeon RX 6800 XT 16311 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 2060 SUPER 8006 Mb",
+    "ram": "16 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 2060 SUPER 8006 Mb",
+    "ram": "16 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "AMD Radeon RX 6600 8121 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12600KF",
+    "gpu": "AMD Radeon RX 5700 8150 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "22 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2673 v2 @ 3.30GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i3-12100F",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 16109 Mb",
+    "ram": "32 Gb",
+    "price": "23 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X3D 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 7700 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 3600 6-Core Processor",
+    "gpu": "NVIDIA GeForce GTX 1660 Ti 5966 Mb",
+    "ram": "16 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12110 Mb",
+    "ram": "32 Gb",
+    "price": "28 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "32 Gb",
+    "price": "28 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
+    "gpu": "AMD Radeon RX 6800 16312 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8017 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600G with Radeon Graphics",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11106 Mb",
+    "ram": "32 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz",
+    "gpu": "NVIDIA GeForce GTX 1070 8067 Mb",
+    "ram": "32 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "24 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 3600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i3-12100F",
+    "gpu": "NVIDIA GeForce RTX 4080 7957 Mb",
+    "ram": "32 Gb",
+    "price": "28 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13400F",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13600KF",
+    "gpu": "AMD Radeon RX 6900 XT 16317 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti 11996 Mb",
+    "ram": "32 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 3600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8017 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 9600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "32 Gb",
+    "price": "39 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700G with Radeon Graphics",
+    "gpu": "NVIDIA GeForce RTX 3090 24326 Mb",
+    "ram": "32 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "32 Gb",
+    "price": "22 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "16 Gb",
+    "price": "27 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 3900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "28 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER 5966 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER 16063 Mb",
+    "ram": "32 Gb",
+    "price": "55 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "32 Gb",
+    "price": "65 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "16 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "27 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i9-7980XE CPU @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "16 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 4500 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i3-12100F",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "48 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+    "gpu": "NVIDIA GeForce GTX 1070 Ti 8059 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i3-12100F",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "32 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 7700 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "32 Gb",
+    "price": "43 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i9-13900K",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "32 Gb",
+    "price": "63 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2683 v4 @ 2.10GHz",
+    "gpu": "NVIDIA GeForce GTX 1070 Ti 8059 Mb",
+    "ram": "64 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5800X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "32 Gb",
+    "price": "49 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2696 v4 @ 2.20GHz",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "37 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "AMD Radeon RX 5700 XT 8125 Mb",
+    "ram": "64 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-4820K CPU @ 3.70GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8017 Mb",
+    "ram": "32 Gb",
+    "price": "49 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E3-1240 v5 @ 3.50GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i5-11600KF @ 3.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "59 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "16 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "36 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12600KF",
+    "gpu": "AMD Radeon RX 7700 XT 12076 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 3700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i9-14900K",
+    "gpu": "NVIDIA GeForce RTX 4090 24142 Mb",
+    "ram": "32 Gb",
+    "price": "79 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti 11996 Mb",
+    "ram": "32 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 8036 Mb",
+    "ram": "64 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6800 XT 16312 Mb",
+    "ram": "32 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "64 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12110 Mb",
+    "ram": "32 Gb",
+    "price": "22 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 8059 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2689 v4 @ 3.10GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 20245 Mb",
+    "ram": "128 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12110 Mb",
+    "ram": "32 Gb",
+    "price": "22 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i3-12100F",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6800 XT 16311 Mb",
+    "ram": "24 Gb",
+    "price": "23 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i7-12700",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz",
+    "gpu": "NVIDIA GeForce GTX 1070 8067 Mb",
+    "ram": "8 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2697 v4 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 3600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "24 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+    "gpu": "AMD Radeon RX 6800 16312 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600G with Radeon Graphics",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11106 Mb",
+    "ram": "32 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3090 24325 Mb",
+    "ram": "32 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER 16063 Mb",
+    "ram": "32 Gb",
+    "price": "63 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X3D 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4090 24142 Mb",
+    "ram": "64 Gb",
+    "price": "59 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070m 8018 Mb",
+    "ram": "16 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER 16063 Mb",
+    "ram": "48 Gb",
+    "price": "63 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-14700F",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "26 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti 11996 Mb",
+    "ram": "27 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2676 v3 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i7-12700KF",
+    "gpu": "NVIDIA GeForce RTX 3080 12093 Mb",
+    "ram": "32 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13400F",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "24 Gb",
+    "price": "23 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "24 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5800X3D 8-Core Processor",
+    "gpu": "AMD Radeon RX 6800 XT 16312 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "AMD Radeon RX 6700 XT 11871 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 Laptop GPU 8018 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12600KF",
+    "gpu": "NVIDIA GeForce RTX 3080 10053 Mb",
+    "ram": "16 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11127 Mb",
+    "ram": "32 Gb",
+    "price": "39 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 3060 12124 Mb",
+    "ram": "16 Gb",
+    "price": "14 ₽"
+  },
+  {
+    "cpu": "Genuine Intel(R) CPU 0000 @ 2.10GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "14 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E3-1270 v6 @ 3.80GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11106 Mb",
+    "ram": "32 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 8059 Mb",
+    "ram": "32 Gb",
+    "price": "21 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i7-13700KF",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "32 Gb",
+    "price": "60 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 3600 6-Core Processor",
+    "gpu": "AMD Radeon RX 5700 XT 8125 Mb",
+    "ram": "32 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "16 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2667 v4 @ 3.20GHz",
+    "gpu": "NVIDIA GeForce RTX 4070 12011 Mb",
+    "ram": "32 Gb",
+    "price": "27 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2690 v3 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 2070 8019 Mb",
+    "ram": "16 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "64 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "Genuine Intel(R) 0000",
+    "gpu": "AMD Radeon RX 6900 XT 15971 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6600 XT 8121 Mb",
+    "ram": "32 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 3600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 2060 SUPER 8006 Mb",
+    "ram": "16 Gb",
+    "price": "28 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i7-13700K",
+    "gpu": "NVIDIA GeForce RTX 4090 24142 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz",
+    "gpu": "NVIDIA GeForce RTX 4090 24142 Mb",
+    "ram": "16 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11106 Mb",
+    "ram": "16 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "48 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "64 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i9-12900K",
+    "gpu": "NVIDIA GeForce RTX 3080 12093 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 3600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER 5966 Mb",
+    "ram": "16 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5800H with Radeon Graphics",
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU 5996 Mb",
+    "ram": "24 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 12115 Mb",
+    "ram": "32 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 12012 Mb",
+    "ram": "16 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "27 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 PRO 1700X Eight-Core Processor",
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER 5966 Mb",
+    "ram": "32 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5500",
+    "gpu": "NVIDIA GeForce RTX 2060 5954 Mb",
+    "ram": "16 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+    "gpu": "NVIDIA GeForce RTX 2060 SUPER 8006 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER 16063 Mb",
+    "ram": "48 Gb",
+    "price": "55 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i3-12100F",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER 16063 Mb",
+    "ram": "16 Gb",
+    "price": "57 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2650 v4 @ 2.20GHz",
+    "gpu": "NVIDIA GeForce GTX 1070 Ti 8059 Mb",
+    "ram": "16 Gb",
+    "price": "23 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz",
+    "gpu": "NVIDIA GeForce RTX 2060 3935 Mb",
+    "ram": "16 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E3-1275 V2 @ 3.50GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Frankenstein 6009 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 16109 Mb",
+    "ram": "16 Gb",
+    "price": "34 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5800H with Radeon Graphics",
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU 5996 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 3900 12-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "64 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "13th Gen Intel(R) Core(TM) i5-13600K",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7950X 16-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "32 Gb",
+    "price": "28 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16338 Mb",
+    "ram": "32 Gb",
+    "price": "29 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7500F 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4080 SUPER 16047 Mb",
+    "ram": "16 Gb",
+    "price": "60 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 7600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti 11996 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2690 v3 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8017 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Genuine Intel(R) CPU 0000 @ 2.40GHz",
+    "gpu": "AMD Radeon RX 5700 XT 8125 Mb",
+    "ram": "24 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "32 Gb",
+    "price": "37 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz",
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER 5966 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "64 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 3700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3090 24325 Mb",
+    "ram": "32 Gb",
+    "price": "57 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 2600 Six-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600G with Radeon Graphics",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2640 v3 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3090 24325 Mb",
+    "ram": "64 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz",
+    "gpu": "NVIDIA GeForce GTX 1660 5966 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600G with Radeon Graphics",
+    "gpu": "AMD Radeon RX 6700 XT 12216 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070m 8018 Mb",
+    "ram": "16 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 3600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "32 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 2070 8006 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 7945HX with Radeon Graphics",
+    "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU 7957 Mb",
+    "ram": "48 Gb",
+    "price": "44 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "16 Gb",
+    "price": "40 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2673 v3 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 2060 5954 Mb",
+    "ram": "16 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "AMD Radeon RX 5700 XT 7786 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "AMD Radeon RX 5700 8125 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 7 5700X3D 8-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "32 Gb",
+    "price": "48 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 9 5900X 12-Core Processor",
+    "gpu": "AMD Radeon RX 6900 XT 16338 Mb",
+    "ram": "8 Gb",
+    "price": "63 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2660 v3 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER 5966 Mb",
+    "ram": "16 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce RTX 3080 Ti 12086 Mb",
+    "ram": "64 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11107 Mb",
+    "ram": "48 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i9-9980HK CPU @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i3-12100F",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "32 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i5-14600KF",
+    "gpu": "NVIDIA GeForce RTX 4070 SUPER 11999 Mb",
+    "ram": "32 Gb",
+    "price": "50 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 3600 6-Core Processor",
+    "gpu": "AMD Radeon RX 6650 XT 8147 Mb",
+    "ram": "32 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "AMD Radeon RX 5700 XT 8120 Mb",
+    "ram": "32 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 7957 Mb",
+    "ram": "16 Gb",
+    "price": "24 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11106 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11106 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3090 24326 Mb",
+    "ram": "32 Gb",
+    "price": "30 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz",
+    "gpu": "NVIDIA GeForce RTX 3070 8018 Mb",
+    "ram": "24 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8017 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8017 Mb",
+    "ram": "64 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "64 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "AMD Radeon RX 6600 XT 8146 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8017 Mb",
+    "ram": "32 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz",
+    "gpu": "NVIDIA GeForce GTX 1070 Ti 8059 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400F",
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER 5966 Mb",
+    "ram": "32 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3060 12115 Mb",
+    "ram": "16 Gb",
+    "price": "19 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+    "gpu": "NVIDIA GeForce GTX 1070 8067 Mb",
+    "ram": "16 Gb",
+    "price": "13 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2673 v3 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 2070 Super 8016 Mb",
+    "ram": "32 Gb",
+    "price": "15 ₽"
+  },
+  {
+    "cpu": "12th Gen Intel(R) Core(TM) i5-12400",
+    "gpu": "NVIDIA GeForce RTX 4070 Ti 11996 Mb",
+    "ram": "32 Gb",
+    "price": "35 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "32 Gb",
+    "price": "39 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2637 v4 @ 3.50GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11106 Mb",
+    "ram": "16 Gb",
+    "price": "22 ₽"
+  },
+  {
+    "cpu": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+    "gpu": "NVIDIA GeForce GTX 1660 SUPER 5980 Mb",
+    "ram": "16 Gb",
+    "price": "18 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11106 Mb",
+    "ram": "16 Gb",
+    "price": "22 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz",
+    "gpu": "NVIDIA GeForce GTX 1080 Ti 11106 Mb",
+    "ram": "16 Gb",
+    "price": "22 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2690 v3 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 4080 SUPER 16109 Mb",
+    "ram": "32 Gb",
+    "price": "38 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600X 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 3070 Ti 8017 Mb",
+    "ram": "16 Gb",
+    "price": "25 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz",
+    "gpu": "NVIDIA GeForce RTX 3060 Ti 8024 Mb",
+    "ram": "32 Gb",
+    "price": "33 ₽"
+  },
+  {
+    "cpu": "AMD Ryzen 5 5600 6-Core Processor",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti 7949 Mb",
+    "ram": "32 Gb",
+    "price": "27 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz",
+    "gpu": "NVIDIA GeForce RTX 2070 8006 Mb",
+    "ram": "32 Gb",
+    "price": "20 ₽"
+  },
+  {
+    "cpu": "Intel(R) Xeon(R) CPU E5-2673 v3 @ 2.40GHz",
+    "gpu": "AMD Radeon RX 7600 8108 Mb",
+    "ram": "64 Gb",
+    "price": "23 ₽"
+  }
+]
